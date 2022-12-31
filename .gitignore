@@ -3,3 +3,7 @@
 years_csv
 
 *.csv
+
+__pycache__/
+*.py[cod]
+*$py.class
